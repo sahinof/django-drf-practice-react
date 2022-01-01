@@ -4,4 +4,4 @@ This is a simple blog app built with React using MaterialUI components. It runs 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Screenshot of the app's homepage](/docs/ss-1.png)
+![Screenshot of the app's homepage](https://github.com/sahinof/django-drf-practice-react/blob/master/doc/ss-1.png)
